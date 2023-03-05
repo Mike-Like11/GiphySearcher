@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GiphySearcher</string>
+    <string name="gif_image_url">Gif Image URL</string>
+    <string name="GifSearchHint">Введите название гифки</string>
+    <string name="ErrorTextMessage">Произошла ошибка при загрузке данных, проверьте подключение к сети</string>
+    <string name="RetrySearchTextMessage">Повторить</string>
+</resources>
